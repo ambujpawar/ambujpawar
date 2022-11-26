@@ -1,4 +1,3 @@
-![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=ambujpawar&count_private=true)
 
 ### Hi there 👋
 
